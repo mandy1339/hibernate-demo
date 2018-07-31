@@ -19,8 +19,8 @@ public class ReadStudentDemo {
 		Session session = factory.getCurrentSession();
 		
 		try {			
-			// create 3 student objects
-			System.out.println("Creating 3 student objects...");
+			// create 1 student object
+			System.out.println("Creating 1 student object...");
 			Student tempStudent1 = new Student("Daffy", "Duck", "daffy@luv2code.com");
 
 			
